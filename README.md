@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/gazi taoshif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazi taoshif" height="30" width="40" /></a>
 <a href="https://fb.com/taoshif gazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taoshif gazi" height="30" width="40" /></a>
+<a href="https://instagram.com/taoshiflex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taoshiflex" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/taoshiflex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="taoshiflex" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gazitaoshif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gazitaoshif" height="30" width="40" /></a>
 </p>
