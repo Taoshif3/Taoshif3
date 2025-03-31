@@ -1,4 +1,4 @@
-<h1 align="center">Hi Guyss 👋, I'm Gazi Taoshif</h1>
+<h1 align="center">Hi Guys 👋, I'm Gazi Taoshif</h1>
 <h3 align="center">A Passionate Computer Science & Engineering student from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taoshif3&label=Profile%20views&color=0e75b6&style=flat" alt="taoshif3" /> </p>
